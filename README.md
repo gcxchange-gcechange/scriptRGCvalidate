@@ -1,3 +1,13 @@
+# ScriptRGCvalidate
+
+I create this script to validate all receiver general code of department and azure. It test each domain, get the token_endpoint, clean it and compare the depart and azure one for validation.
+
+Make sure you add the array of data in dataJson.js
+
+# How it work
+
+Once dataJson contain all your data, click on start first, and when its finish loading, click on start2. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
